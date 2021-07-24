@@ -1,0 +1,16 @@
+//in a given array A, return the sum of all its unique elements
+
+int sumOfUnique(vector<int>& nums) 
+{
+      unordered_map<int, int> hash;
+      for(auto x: nums)
+          hash[x]++;
+
+      int sum =0;
+      for(auto x: hash)
+      {
+         if(hash[x.first] == 1)
+             sum+= x.first;
+      }
+      return sum;
+}
