@@ -1,0 +1,28 @@
+class Solution {
+public:
+    string longestPalindrome(string s) {
+        string a = s;
+        string b = a;
+        reverse(b.begin(), b.end());
+        
+        int m = s.length();
+        vector<vector<int>> grid(m+1, vector<int>(m+1,0));        
+        int imax = -1, index = 0;
+        for (int i = 1; i <= m; i++)
+        {
+            for (int j = 1; j <= m; j++)
+            {
+                if (a[i - 1] == b[j - 1])
+                    grid[i][j] = 1 + grid[i - 1][j - 1];
+                if (grid[i][j] > imax && i - grid[i][j] == m - j)
+                {
+                    imax = grid[i][j];
+                    index = i;
+                }
+
+            }
+        }
+        return s.substr(index - imax, imax);
+
+    }
+};
