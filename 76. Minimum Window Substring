@@ -1,0 +1,42 @@
+/*
+Given two strings s and t of lengths m and n respectively, return the minimum window substring of s such that every character in t (including duplicates) is included in the window. If there is no such substring, return the empty string "".
+The testcases will be generated such that the answer is unique.
+A substring is a contiguous sequence of characters within the string.
+*/
+
+class Solution {
+public:
+    string minWindow(string s, string t) {
+        vector<int> tfreq(128,0);
+        for(char c : t) 
+            tfreq[c]++;
+        
+        int start=0, end=0, counter=t.size(), minStart=0, minLen=INT_MAX;
+        int size = s.size();
+        
+        while(end<size)
+        {
+            if(tfreq[s[end]]>0)
+                counter--;
+            
+            tfreq[s[end]]--; 
+            end++;
+            while(counter==0)
+            {
+                if(end-start<minLen)
+                {
+                    minStart=start;
+                    minLen = end-start;
+                }
+                tfreq[s[start]]++; 
+                if(tfreq[s[start]]>0) 
+                    counter++;
+                start++;
+            }
+            
+        }
+        if(minLen!=INT_MAX)
+            return s.substr(minStart,minLen);
+        return "";
+    }
+};
