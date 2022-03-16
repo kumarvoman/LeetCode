@@ -1,0 +1,28 @@
+/*
+946. Validate Stack Sequences
+Given two integer arrays pushed and popped each with distinct values, 
+return true if this could have been the result of a sequence of push and pop operations on an initially empty stack, or false otherwise.
+*/
+
+bool validateStackSequences(vector<int>& pushed, vector<int>& popped) 
+{
+    stack<int> st;
+    int n = pushed.size(), m = popped.size();
+    int i = 0, j = 0;
+    while (i < n || j < m)
+    {
+        while (st.empty() == false && st.top() == popped[j])
+        {
+            st.pop();
+            j++;
+        }
+        if (i < n)
+        {
+            st.push(pushed[i]);
+            i++;
+        }
+        if (i == n && j < m && st.top() != popped[j])
+            return false;
+    }
+    return st.empty();
+}
