@@ -1,4 +1,7 @@
-//in a given array A, return the sum of all its unique elements
+/*
+You are given an integer array nums. The unique elements of an array are the elements that appear exactly once in the array.
+Return the sum of all the unique elements of nums.
+*/
 
 int sumOfUnique(vector<int>& nums) 
 {
