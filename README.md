@@ -103,3 +103,10 @@ Solutions of problems on leetcode in Sequence [C++]. Intuition behind the soluti
 98 | Validate Binary Search Tree | | | 
 99 | Recover Binary Search Tree | | | 
 100 | Same Tree | | | 
+723 | Candy Crush | | |
+946 | Validate stack sequence | | | 
+1365 | How Many Numbers Are Smaller Than the Current Number | | |
+1748 | Sum of Unique Elements | | |
+2068 | Check Whether Two Strings are Almost Equivalent | | |
+2070 | Most Beautiful Item for Each Query | | |
+2073 | Time Needed to Buy Tickets | | |
