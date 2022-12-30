@@ -3,7 +3,7 @@ Solutions of problems on leetcode in Sequence [C++]. Intuition behind the soluti
 
 \# | Title | Difficulty | Solution | Time Complexity | Space Complexity
 ---|---|---|--- | --- | ---
-1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum) | TC - O(N) | SC - O(N) |
+1 | Two Sum | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/0001.%20Two%20Sum) | TC - O(N) | SC - O(N) |
 2 | Add Two Numbers | Medium | [Solution](leetcode/2.%20Add%20Two%20Numbers) | TC-O(max(m,n)) | SC-O(max(m,n)) | 
 3 | Longest Substring Without Repeating Characters | Medium | [Solution](leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters) | TC - O(N) | SC - O(min(m,n)) | 
 4 | Median of Two Sorted Arrays | Hard | [Solution](leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays) | TC- O(log(min(m, n))) | SC-O(1) | 
