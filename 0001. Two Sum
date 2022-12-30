@@ -1,0 +1,24 @@
+/*
+Two Sum : https://leetcode.com/problems/two-sum/
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
+*/
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int n = static_cast<int>(nums.size());
+        std::map<int, int> hash;
+        for(int index=0; index<n; index++)
+        {
+            std::map<int, int>::iterator current = hash.find(target-nums[index]);
+            if( current != hash.end())
+            {
+                return { current->second, index };
+            }
+            hash.insert(pair<int, int>(nums[index], index));
+        }
+        return {};
+    }
+};
