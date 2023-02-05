@@ -103,10 +103,19 @@ Solutions of problems on leetcode in Sequence [C++]. Intuition behind the soluti
 98 | Validate Binary Search Tree | | | 
 99 | Recover Binary Search Tree | | | 
 100 | Same Tree | | | 
+144 | Binary Tree Preorder Traversal | | | 
+149 | Max points on a Line | | | 
 723 | Candy Crush | | |
+918 | Maximum Sum Circular Subarray | | |
 946 | Validate stack sequence | | | 
+1137 | N-th Tribonacci Number | | |
 1365 | How Many Numbers Are Smaller Than the Current Number | | |
+1443 | Minimum Time to Collect All Apples in a Tree | | |
 1748 | Sum of Unique Elements | | |
 2068 | Check Whether Two Strings are Almost Equivalent | | |
 2070 | Most Beautiful Item for Each Query | | |
-2073 | Time Needed to Buy Tickets | | |
+2535 | Difference Between Element Sum and Digit Sum of an Array | | |
+2537 | Count the Number of Good Subarrays | | |
+2558 | Take Gifts From the Richest Pile | | |
+2559 | Count Vowel Strings in Ranges | | |
+5926 | Time Needed to Buy Tickets | | |
