@@ -59,7 +59,7 @@ Solutions of problems on leetcode in Sequence [C++]. Intuition behind the soluti
 54 |  Spiral Matrix | Medium | [Solution]() | 
 55 |  Jump Game | Medium | [Solution]() | 
 56 |  Merge Intervals | Medium | [Solution]() | 
-57 |  Insert Interval | Medium | [Solution]() | 
+57 |  Insert Interval | Medium | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/0057.%20Insert%20Interval) | 
 58 |  Length of Last Word | Easy | [Solution]() | 
 59 |  Spiral Matrix II | Medium | [Solution]() | 
 60 |  Permutation Sequence | Hard | [Solution]() | 
@@ -78,7 +78,7 @@ Solutions of problems on leetcode in Sequence [C++]. Intuition behind the soluti
 73 |  Set Matrix Zeroes | Medium | [Solution]() | 
 74 |  Search a 2D Matrix | Medium | [Solution]() | 
 75 |  Sort Colors | Medium | [Solution]() | 
-76 |  Minimum Window Substring | Hard | [Solution]() | 
+76 |  Minimum Window Substring | Hard | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/0076.%20Minimum%20Window%20Substring) | 
 77 |  Combinations | Medium | [Solution]() | 
 78 |  Subsets | Medium | [Solution]() | 
 79 |  Word Search | Medium | [Solution]() | 
@@ -102,16 +102,16 @@ Solutions of problems on leetcode in Sequence [C++]. Intuition behind the soluti
 97 |  Interleaving String | Medium | [Solution]() | 
 98 |  Validate Binary Search Tree | Medium | [Solution]() | 
 99 |  Recover Binary Search Tree | Medium | [Solution]() | 
-100 |  Same Tree | Easy | [Solution]()
-144 | Binary Tree Preorder Traversal | Easy |[Solution]() | 
-149 | Max points on a Line | Hard | [Solution]() | 
-723 | Candy Crush | Medium |[Solution]() | 
-918 | Maximum Sum Circular Subarray | Medium |[Solution]() | 
-946 | Validate stack sequence | Medium | [Solution]() | 
-1137 | N-th Tribonacci Number | Easy | [Solution]() | 
-1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution]() | 
-1443 | Minimum Time to Collect All Apples in a Tree | Medium | [Solution]() | 
-1748 | Sum of Unique Elements | Easy | [Solution]() | 
+100 |  Same Tree | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/0100.%20Same%20Tree)
+144 | Binary Tree Preorder Traversal | Easy |[Solution](https://github.com/kumarvoman/LeetCode/blob/main/0144.%20Binary%20Tree%20Preorder%20Traversal) | 
+149 | Max points on a Line | Hard | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/0149.%20Max%20points%20on%20a%20Line) | 
+723 | Candy Crush | Medium |[Solution](https://github.com/kumarvoman/LeetCode/blob/main/0723.%20Candy%20Crush) | 
+918 | Maximum Sum Circular Subarray | Medium |[Solution](https://github.com/kumarvoman/LeetCode/blob/main/0918.%20Maximum%20Sum%20Circular%20Subarray) | 
+946 | Validate stack sequence | Medium | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/0946-Validate_Stack_Sequences) | 
+1137 | N-th Tribonacci Number | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/1137.%20N-th%20Tribonacci%20Number) | 
+1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number) | 
+1443 | Minimum Time to Collect All Apples in a Tree | Medium | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree) | 
+1748 | Sum of Unique Elements | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/1748.%20Sum%20of%20Unique%20Elements) | 
 2068 | Check Whether Two Strings are Almost Equivalent | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent) |
 2070 | Most Beautiful Item for Each Query | Medium | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2070.%20Most%20Beautiful%20Item%20for%20Each%20Query) |
 2073 | Time Needed to Buy Tickets | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2073_Time_Needed_to_Buy_Tickets.cpp) |
