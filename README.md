@@ -110,6 +110,7 @@ Solutions of problems on leetcode in Sequence [C++]. Intuition behind the soluti
 723 | Candy Crush | Medium |[Solution](https://github.com/kumarvoman/LeetCode/blob/main/0723.%20Candy%20Crush) | 
 918 | Maximum Sum Circular Subarray | Medium |[Solution](https://github.com/kumarvoman/LeetCode/blob/main/0918.%20Maximum%20Sum%20Circular%20Subarray) | 
 946 | Validate stack sequence | Medium | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/0946-Validate_Stack_Sequences) | 
+1071 | Greatest Common Divisor of Strings | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/1071.%20Greatest%20Common%20Divisor%20of%20Strings) | 
 1137 | N-th Tribonacci Number | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/1137.%20N-th%20Tribonacci%20Number) | 
 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number) | 
 1443 | Minimum Time to Collect All Apples in a Tree | Medium | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree) | 
