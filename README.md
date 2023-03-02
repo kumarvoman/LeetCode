@@ -118,6 +118,7 @@ Solutions of problems on leetcode in Sequence [C++]. Intuition behind the soluti
 2068 | Check Whether Two Strings are Almost Equivalent | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent) |
 2070 | Most Beautiful Item for Each Query | Medium | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2070.%20Most%20Beautiful%20Item%20for%20Each%20Query) |
 2073 | Time Needed to Buy Tickets | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2073_Time_Needed_to_Buy_Tickets.cpp) |
+2423 | Remove Letter To Equalize Frequency | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2423.%20Remove%20Letter%20To%20Equalize%20Frequency)
 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2535.%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array) |
 2537 | Count the Number of Good Subarrays | Medium | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2537.%20Count%20the%20Number%20of%20Good%20Subarrays) |
 2558 | Take Gifts From the Richest Pile | Easy | [Solution](https://github.com/kumarvoman/LeetCode/blob/main/2558.%20Take%20Gifts%20From%20the%20Richest%20Pile) |
